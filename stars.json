@@ -1,39 +1,39 @@
 [
   {
     "full_name": "Awesome-Windows/Awesome",
-    "stargazers_count": 19674,
+    "stargazers_count": 19701,
     "open_issues_count": 95,
     "forks_count": 2090
   },
   {
     "full_name": "MindorksOpenSource/android-interview-questions",
-    "stargazers_count": 9030,
+    "stargazers_count": 9035,
     "open_issues_count": 32,
     "forks_count": 1904
   },
   {
     "full_name": "vrtmrz/obsidian-livesync",
-    "stargazers_count": 424,
+    "stargazers_count": 426,
     "open_issues_count": 28,
     "forks_count": 26
   },
   {
     "full_name": "apollographql/apollo-kotlin",
-    "stargazers_count": 3203,
-    "open_issues_count": 152,
+    "stargazers_count": 3204,
+    "open_issues_count": 143,
     "forks_count": 594
   },
   {
     "full_name": "philipplackner/StockMarketApp",
     "stargazers_count": 84,
     "open_issues_count": 1,
-    "forks_count": 57
+    "forks_count": 59
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 16719,
-    "open_issues_count": 40,
-    "forks_count": 9170
+    "stargazers_count": 16753,
+    "open_issues_count": 23,
+    "forks_count": 9195
   },
   {
     "full_name": "wodby/docker4wordpress",
@@ -43,14 +43,14 @@
   },
   {
     "full_name": "GetStream/Winds",
-    "stargazers_count": 8628,
+    "stargazers_count": 8630,
     "open_issues_count": 0,
     "forks_count": 617
   },
   {
     "full_name": "nextcloud/deck",
-    "stargazers_count": 912,
-    "open_issues_count": 489,
+    "stargazers_count": 913,
+    "open_issues_count": 484,
     "forks_count": 215
   },
   {
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "androiddevnotes/awesome-jetpack-compose-learning-resources",
-    "stargazers_count": 708,
+    "stargazers_count": 711,
     "open_issues_count": 3,
     "forks_count": 77
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 12587,
-    "open_issues_count": 22,
-    "forks_count": 2895
+    "stargazers_count": 12599,
+    "open_issues_count": 23,
+    "forks_count": 2900
   },
   {
     "full_name": "apache/hadoop",
-    "stargazers_count": 12789,
-    "open_issues_count": 671,
+    "stargazers_count": 12803,
+    "open_issues_count": 677,
     "forks_count": 7932
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 190993,
-    "open_issues_count": 325,
-    "forks_count": 34571
+    "stargazers_count": 191242,
+    "open_issues_count": 324,
+    "forks_count": 34607
   },
   {
     "full_name": "Shinku443/leetcode",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "Lissy93/personal-security-checklist",
-    "stargazers_count": 8748,
+    "stargazers_count": 8766,
     "open_issues_count": 17,
-    "forks_count": 686
+    "forks_count": 688
   }
 ]
