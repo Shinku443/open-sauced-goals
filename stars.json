@@ -1,27 +1,63 @@
 [
   {
+    "full_name": "appsmithorg/appsmith",
+    "stargazers_count": 20106,
+    "open_issues_count": 2399,
+    "forks_count": 1674
+  },
+  {
+    "full_name": "itzg/docker-minecraft-server",
+    "stargazers_count": 5010,
+    "open_issues_count": 59,
+    "forks_count": 1069
+  },
+  {
+    "full_name": "j-delaney/easy-application",
+    "stargazers_count": 7317,
+    "open_issues_count": 43,
+    "forks_count": 994
+  },
+  {
+    "full_name": "android/compose-samples",
+    "stargazers_count": 12633,
+    "open_issues_count": 27,
+    "forks_count": 2911
+  },
+  {
+    "full_name": "android/graphics-samples",
+    "stargazers_count": 216,
+    "open_issues_count": 19,
+    "forks_count": 113
+  },
+  {
+    "full_name": "android/testing-samples",
+    "stargazers_count": 8574,
+    "open_issues_count": 106,
+    "forks_count": 3505
+  },
+  {
     "full_name": "Awesome-Windows/Awesome",
-    "stargazers_count": 19701,
+    "stargazers_count": 19728,
     "open_issues_count": 95,
-    "forks_count": 2090
+    "forks_count": 2091
   },
   {
     "full_name": "MindorksOpenSource/android-interview-questions",
-    "stargazers_count": 9035,
+    "stargazers_count": 9041,
     "open_issues_count": 32,
-    "forks_count": 1904
+    "forks_count": 1903
   },
   {
     "full_name": "vrtmrz/obsidian-livesync",
-    "stargazers_count": 426,
-    "open_issues_count": 28,
-    "forks_count": 26
+    "stargazers_count": 442,
+    "open_issues_count": 30,
+    "forks_count": 29
   },
   {
     "full_name": "apollographql/apollo-kotlin",
-    "stargazers_count": 3204,
+    "stargazers_count": 3208,
     "open_issues_count": 143,
-    "forks_count": 594
+    "forks_count": 595
   },
   {
     "full_name": "philipplackner/StockMarketApp",
@@ -31,26 +67,26 @@
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 16753,
+    "stargazers_count": 16939,
     "open_issues_count": 23,
-    "forks_count": 9195
+    "forks_count": 9256
   },
   {
     "full_name": "wodby/docker4wordpress",
     "stargazers_count": 667,
     "open_issues_count": 13,
-    "forks_count": 204
+    "forks_count": 203
   },
   {
     "full_name": "GetStream/Winds",
-    "stargazers_count": 8630,
+    "stargazers_count": 8632,
     "open_issues_count": 0,
     "forks_count": 617
   },
   {
     "full_name": "nextcloud/deck",
-    "stargazers_count": 913,
-    "open_issues_count": 484,
+    "stargazers_count": 914,
+    "open_issues_count": 486,
     "forks_count": 215
   },
   {
@@ -73,27 +109,21 @@
   },
   {
     "full_name": "androiddevnotes/awesome-jetpack-compose-learning-resources",
-    "stargazers_count": 711,
+    "stargazers_count": 712,
     "open_issues_count": 3,
-    "forks_count": 77
-  },
-  {
-    "full_name": "android/compose-samples",
-    "stargazers_count": 12599,
-    "open_issues_count": 23,
-    "forks_count": 2900
+    "forks_count": 79
   },
   {
     "full_name": "apache/hadoop",
-    "stargazers_count": 12803,
-    "open_issues_count": 677,
-    "forks_count": 7932
+    "stargazers_count": 12810,
+    "open_issues_count": 688,
+    "forks_count": 7940
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 191242,
+    "stargazers_count": 191566,
     "open_issues_count": 324,
-    "forks_count": 34607
+    "forks_count": 34653
   },
   {
     "full_name": "Shinku443/leetcode",
@@ -109,8 +139,8 @@
   },
   {
     "full_name": "Lissy93/personal-security-checklist",
-    "stargazers_count": 8766,
+    "stargazers_count": 8786,
     "open_issues_count": 17,
-    "forks_count": 688
+    "forks_count": 689
   }
 ]
