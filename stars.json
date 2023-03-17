@@ -1,13 +1,13 @@
 [
   {
     "full_name": "linuxserver/Heimdall",
-    "stargazers_count": 5680,
+    "stargazers_count": 5690,
     "open_issues_count": 23,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "linuxserver/docker-mods",
-    "stargazers_count": 579,
+    "stargazers_count": 582,
     "open_issues_count": 61,
     "forks_count": 195
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "awesome-foss/awesome-sysadmin",
-    "stargazers_count": 16999,
-    "open_issues_count": 26,
-    "forks_count": 1051
+    "stargazers_count": 17019,
+    "open_issues_count": 27,
+    "forks_count": 1052
   },
   {
     "full_name": "lfzawacki/musical-artifacts",
@@ -31,33 +31,33 @@
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 18801,
+    "stargazers_count": 18810,
     "open_issues_count": 622,
-    "forks_count": 1866
+    "forks_count": 1865
   },
   {
     "full_name": "benphelps/homepage",
-    "stargazers_count": 4942,
-    "open_issues_count": 126,
-    "forks_count": 268
+    "stargazers_count": 5069,
+    "open_issues_count": 125,
+    "forks_count": 270
   },
   {
     "full_name": "davestephens/ansible-nas",
-    "stargazers_count": 2362,
-    "open_issues_count": 118,
+    "stargazers_count": 2365,
+    "open_issues_count": 119,
     "forks_count": 403
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 123702,
+    "stargazers_count": 124058,
     "open_issues_count": 88,
-    "forks_count": 7208
+    "forks_count": 7235
   },
   {
     "full_name": "opendatadiscovery/odd-platform",
-    "stargazers_count": 733,
-    "open_issues_count": 93,
-    "forks_count": 40
+    "stargazers_count": 739,
+    "open_issues_count": 90,
+    "forks_count": 41
   },
   {
     "full_name": "MartinKondor/MovieRecommender",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "causefx/Organizr",
-    "stargazers_count": 4268,
-    "open_issues_count": 25,
-    "forks_count": 284
+    "stargazers_count": 4275,
+    "open_issues_count": 26,
+    "forks_count": 283
   },
   {
     "full_name": "d4rk22/Network-Status-Page",
@@ -85,8 +85,8 @@
   },
   {
     "full_name": "aceberg/WatchYourLAN",
-    "stargazers_count": 540,
-    "open_issues_count": 17,
+    "stargazers_count": 543,
+    "open_issues_count": 16,
     "forks_count": 28
   },
   {
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 9997,
+    "stargazers_count": 10432,
     "open_issues_count": 37,
-    "forks_count": 268
+    "forks_count": 284
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 1979,
-    "open_issues_count": 57,
+    "stargazers_count": 1993,
+    "open_issues_count": 59,
     "forks_count": 96
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 24631,
-    "open_issues_count": 1,
-    "forks_count": 2716
+    "stargazers_count": 24654,
+    "open_issues_count": 0,
+    "forks_count": 2718
   },
   {
     "full_name": "yagmurerdogan/Doggy-App",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "dani-garcia/vaultwarden",
-    "stargazers_count": 23571,
-    "open_issues_count": 13,
-    "forks_count": 1196
+    "stargazers_count": 23627,
+    "open_issues_count": 12,
+    "forks_count": 1202
   },
   {
     "full_name": "Librum-Reader/Librum-Server",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "Leantime/docker-leantime",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 1,
     "forks_count": 52
   },
   {
     "full_name": "Leantime/leantime",
-    "stargazers_count": 2105,
-    "open_issues_count": 159,
-    "forks_count": 375
+    "stargazers_count": 2111,
+    "open_issues_count": 163,
+    "forks_count": 376
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 25460,
-    "open_issues_count": 3223,
-    "forks_count": 2338
+    "stargazers_count": 25576,
+    "open_issues_count": 3240,
+    "forks_count": 2349
   },
   {
     "full_name": "itzg/docker-minecraft-server",
-    "stargazers_count": 6316,
-    "open_issues_count": 79,
-    "forks_count": 1223
+    "stargazers_count": 6329,
+    "open_issues_count": 77,
+    "forks_count": 1226
   },
   {
     "full_name": "j-delaney/easy-application",
-    "stargazers_count": 7476,
+    "stargazers_count": 7477,
     "open_issues_count": 43,
     "forks_count": 1014
   },
   {
     "full_name": "android/compose-samples",
-    "stargazers_count": 15007,
-    "open_issues_count": 9,
-    "forks_count": 3642
+    "stargazers_count": 15042,
+    "open_issues_count": 10,
+    "forks_count": 3652
   }
 ]
