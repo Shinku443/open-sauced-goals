@@ -3,23 +3,23 @@
     "full_name": "saehaana/Heirloom",
     "stargazers_count": 2,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 2
   },
   {
     "full_name": "CommunityToolkit/WindowsCommunityToolkit",
-    "stargazers_count": 5810,
+    "stargazers_count": 5812,
     "open_issues_count": 324,
     "forks_count": 1373
   },
   {
     "full_name": "Sycnex/Windows10Debloater",
-    "stargazers_count": 17898,
+    "stargazers_count": 17905,
     "open_issues_count": 301,
-    "forks_count": 2027
+    "forks_count": 2029
   },
   {
     "full_name": "Hack-with-Github/Windows",
-    "stargazers_count": 1503,
+    "stargazers_count": 1502,
     "open_issues_count": 0,
     "forks_count": 399
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "hellzerg/optimizer",
-    "stargazers_count": 12820,
-    "open_issues_count": 24,
-    "forks_count": 883
+    "stargazers_count": 12857,
+    "open_issues_count": 26,
+    "forks_count": 884
   },
   {
     "full_name": "privacytools/privacytools.io",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "privacytoolsIO/privacy-tools",
-    "stargazers_count": 204,
+    "stargazers_count": 206,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "linuxserver/Heimdall",
-    "stargazers_count": 7425,
+    "stargazers_count": 7428,
     "open_issues_count": 27,
     "forks_count": 538
   },
   {
     "full_name": "linuxserver/docker-mods",
-    "stargazers_count": 958,
-    "open_issues_count": 8,
-    "forks_count": 252
+    "stargazers_count": 957,
+    "open_issues_count": 6,
+    "forks_count": 253
   },
   {
     "full_name": "im-n1/startpage",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "awesome-foss/awesome-sysadmin",
-    "stargazers_count": 23497,
+    "stargazers_count": 23543,
     "open_issues_count": 30,
-    "forks_count": 1371
+    "forks_count": 1374
   },
   {
     "full_name": "lfzawacki/musical-artifacts",
@@ -79,32 +79,32 @@
   },
   {
     "full_name": "monicahq/monica",
-    "stargazers_count": 21001,
-    "open_issues_count": 695,
-    "forks_count": 2089
+    "stargazers_count": 21011,
+    "open_issues_count": 694,
+    "forks_count": 2090
   },
   {
     "full_name": "gethomepage/homepage",
-    "stargazers_count": 17042,
+    "stargazers_count": 17081,
     "open_issues_count": 2,
-    "forks_count": 980
+    "forks_count": 987
   },
   {
     "full_name": "davestephens/ansible-nas",
-    "stargazers_count": 3047,
+    "stargazers_count": 3049,
     "open_issues_count": 87,
     "forks_count": 472
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 184964,
+    "stargazers_count": 185333,
     "open_issues_count": 0,
-    "forks_count": 9167
+    "forks_count": 9182
   },
   {
     "full_name": "opendatadiscovery/odd-platform",
     "stargazers_count": 1148,
-    "open_issues_count": 102,
+    "open_issues_count": 100,
     "forks_count": 96
   },
   {
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "jez500/bender",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 14,
     "forks_count": 4
   },
   {
     "full_name": "causefx/Organizr",
-    "stargazers_count": 4974,
-    "open_issues_count": 23,
+    "stargazers_count": 4977,
+    "open_issues_count": 24,
     "forks_count": 287
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "aceberg/WatchYourLAN",
-    "stargazers_count": 1202,
+    "stargazers_count": 1211,
     "open_issues_count": 33,
     "forks_count": 55
   },
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "upscayl/upscayl",
-    "stargazers_count": 27844,
-    "open_issues_count": 40,
-    "forks_count": 1244
+    "stargazers_count": 27912,
+    "open_issues_count": 36,
+    "forks_count": 1246
   },
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 5425,
-    "open_issues_count": 176,
+    "stargazers_count": 5436,
+    "open_issues_count": 177,
     "forks_count": 251
   },
   {
     "full_name": "veggiemonk/awesome-docker",
-    "stargazers_count": 29065,
+    "stargazers_count": 29089,
     "open_issues_count": 0,
-    "forks_count": 2934
+    "forks_count": 2936
   },
   {
     "full_name": "yagmurerdogan/Doggy-App",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "dani-garcia/vaultwarden",
-    "stargazers_count": 34479,
-    "open_issues_count": 31,
-    "forks_count": 1672
+    "stargazers_count": 34543,
+    "open_issues_count": 33,
+    "forks_count": 1676
   }
 ]
